@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// this is test commit
+
 struct ContentView: View {
     @State private var playerCard="card2"
     @State private var cpuCard="card3"
